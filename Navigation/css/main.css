@@ -40,3 +40,9 @@ a:hover{
     background-color: coral;
 
 }
+.third a:hover {
+    /* background-color: black; */
+    padding-bottom: 12px;
+    /* pointer-events: stroke; */
+    font-size: 22px;
+}
