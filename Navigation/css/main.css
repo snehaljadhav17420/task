@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+   margin: 20px;
+}
+li{
+    float: left;
+}
+li a {
+    text-align: center;
+    background-color: darkgoldenrod;
+    padding: 20px;
+    display: block;
+    width: 150px;
+    text-decoration: none ;
+    color: white;
+  }
+a:hover{
+    background-color: black;
+    padding: 20px;
+    
+    
+}
+.row1{
+    height: 100px;
+}
+.row2{
+    height: 100px;
+}
+
+.second >li a{
+    background-color:#ff5271;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.second a:hover{
+    box-shadow: 1px 6px 9px 3px #959595;
+    border-radius: 10px !important;
+}
+.third >li a{
+    background-color: coral;
+
+}
